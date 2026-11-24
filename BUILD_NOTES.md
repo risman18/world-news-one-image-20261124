@@ -8,7 +8,14 @@ after opening.
 ## Repo
 
 - Repo: https://github.com/risman18/world-news-one-image-20261124
-- Commit: b4ccdeb7d262210bb8072bc2d262acfd4921e084 ("news-image-20261124: The World Today front page for 24 Nov 2026"), plus a follow-up commit recording this commit hash in BUILD_NOTES.md.
+- Commit: 2a799f1991853a21fb2b039a18a73c185121b23a (final HEAD). First
+  commit b4ccdeb7d262210bb8072bc2d262acfd4921e084 ("news-image-20261124:
+  The World Today front page for 24 Nov 2026"); follow-ups record the
+  commit hash in BUILD_NOTES.md and use canonical MIT license text so
+  GitHub detects the license (verified: license API returns MIT).
+  Note: the BUILD_NOTES "LICENSE is the kit starter's license file"
+  line above is superseded — the file is the same MIT text with the
+  SPDX header line removed.
 - Contents: `main.py`, `entry.png`, `render.py`, `README.md`, `LICENSE`
   (MIT), `.makefun/owner.json`, `BUILD_NOTES.md`
 
